@@ -88,6 +88,6 @@ February 2020 | IBM Big Data [LInk1](https://www.youracclaim.com/badges/f5890310
 9th March 2019 | [Google Digital Skills Africa](HTTPS://GOO.GL/y4UjgN)
 
 **INTERESTS**
-Traveling
-Problem Solving
-IMproving user experience
+#Traveling
+#Problem Solving
+#Improving user experience

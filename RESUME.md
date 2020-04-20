@@ -73,14 +73,12 @@ Set exams, did marking and provided final report on performance.<br/>
 Attended strategy meetings geared towards improving student performance and discipline. <br/>
 
 **EDUCATION**
-Year | Qualification
 -----| --------------
 2014 - 2018 | Bachelor of Arts (PRODUCT DESIGN), University of Nairobi, Second Class Upper Division
 2009 - 2012 | Kenya Certificate of Secondary Education, Bunyore Girls High School, A-
 1998 - 2008 | Kenya Certificate of Primary Education, Mudasa Academy, 397 Marks
 
 **TRAINING AND CERTIFICATION**
-Year | Certification
 -----| -------------
 February 2020 | IBM Big Data [LInk1](https://www.youracclaim.com/badges/f5890310-255c-4edc-9bdd-10ebb61b74a1/linked_in_profile) [LInk2](https://www.youracclaim.com/badges/9de69ece-b9dd-4d7f-b5ae-748ec09da471/linked_in_profile) [LInk3](https://www.youracclaim.com/badges/aa4155ad-b044-4489-b1b4-495cbb4a1ee3/linked_in_profile)
 19th November – 23rd December | Machine Learning, Big Data, Python, SQL with MODCOM
@@ -91,3 +89,15 @@ February 2020 | IBM Big Data [LInk1](https://www.youracclaim.com/badges/f5890310
 Traveling<br/>
 Problem Solving<br/>
 Improving user experience<br/>
+
+**REFEREES**<br/>
+Mr. Richard Kiarie, Supervisor, MoICT,<br/>
+0724338709.<br/>
+Madam Margaret Mutheu,<br/>
+Operations Manager, Faulu bank, Kisumu,<br/>
++254722790762.<br/>
+Mr. Thomas Ogalo,<br/>
+Regional Manager, Faulu bank, North-West Region,<br/>
+0799231048.<br/>
+Dr. Samuel Maina Mwituria, PhD,<br/>
+Tel +254733350910; (Lecturer- The University of Nairobi.)<br/>

@@ -94,18 +94,17 @@ Improving user experience<br/>
 
 **REFEREES**<br/>
 Mr. Richard Kiarie, Supervisor, MoICT,<br/>
-0724338709.<br/>
+kiariemwaura@gmail.com.<br/>
 Madam Margaret Mutheu,<br/>
 Operations Manager, Faulu bank, Kisumu,<br/>
-+254722790762.<br/>
+margaret.muthiani@faulukenya.com.<br/>
 Mr. Thomas Ogalo,<br/>
 Regional Manager, Faulu bank, North-West Region,<br/>
-0799231048.<br/>
+thomasmikulah@gmail.com.<br/>
 Dr. Samuel Maina Mwituria, PhD,<br/>
 Tel +254733350910; (Lecturer- The University of Nairobi.)<br/>
 Mr. Kevin Atibu Seboru,<br/>
-Head- Innovation and Incubation,<br/>
-ICT Authority | Telposta Towers | 12th Flr - Kenyatta Ave.| <br/>
-P.O.Box 27150, 00100| Nairobi, Kenya<br/>
-Tel: +254 206676234, +254 202211960<br/>
+Head- Innovation and Incubation, ICT Authority<br/>
+kevin.atibu@icta.go.ke<br/>
+ 
 

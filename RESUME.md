@@ -1,42 +1,42 @@
-**MARY ADHIAMBO KONYANGO**<addr>
-**marykonyango74@gmail.com**<addr>
-**+254727767652**<addr>
-**NAIROBI, KENYA**<addr>
-**[Github](https://github.com/adhiambokonyango) | [LinkedIn](www.linkedin.com/in/mary-konyango-4b5a63b4)**<addr>
+**MARY ADHIAMBO KONYANGO**<br/>
+**marykonyango74@gmail.com**<br/>
+**+254727767652**<br/>
+**NAIROBI, KENYA**<br/>
+**[Github](https://github.com/adhiambokonyango) | [LinkedIn](www.linkedin.com/in/mary-konyango-4b5a63b4)**<br/>
 
 **TECHNOLOGIES**
->**Proficient**: React js, Redux, Node js, Spring Java, MySQL
->**Projects:**
->>**Whatsapp Chatbot for COVID19 Support:**
->>>Built for the Kenya Covid19 support team.
->>>Integrated with whatsapp sandbox: [Github.repo](https://github.com/adhiambokonyango/adhiambo.git)
->>>Front-end done in react-redux: [Github.repo](https://github.com/adhiambokonyango/moh.git)
->>>Back-end done in node js: [Github.repo](https://github.com/adhiambokonyango/covid.git)
+**Proficient**: React js, Redux, Node js, Spring Java, MySQL
+**Projects:**
+**Whatsapp Chatbot for COVID19 Support:**
+Built for the Kenya Covid19 support team.
+Integrated with whatsapp sandbox: [Github.repo](https://github.com/adhiambokonyango/adhiambo.git)
+Front-end done in react-redux: [Github.repo](https://github.com/adhiambokonyango/moh.git)
+Back-end done in node js: [Github.repo](https://github.com/adhiambokonyango/covid.git)
 
 **EXPERIENCE**
->**ICT AUTHORITY
->PDTP
->July 2019 to Date**
->>*Responsibilities:*
->>1.CRS DIGITIZATION
+**ICT AUTHORITY
+PDTP
+July 2019 to Date**
+*Responsibilities:*
+1.CRS DIGITIZATION
 Network management(topologies, subnetting, routing and switching)
 User support
 SQL database management
 Data backup and storage
 Setting up server and network configuration
->>2.BUSINESS PROCESS REENGINEERING TRAINING BY KKeGC
+2.BUSINESS PROCESS REENGINEERING TRAINING BY KKeGC
 Event management project. Skill set gained include;
 Communication. Marketing the event to the officers to ensure as many as possible showed up.
 Multitasking. Making invitations and following up on supplies.
 Budgeting. Projecting and tracking spend.
 Problem solving
->>3.DRAFTING DIGITAL ECONOMY STRATEGY REPORT
+3.DRAFTING DIGITAL ECONOMY STRATEGY REPORT
 Creative research process to come up with how government could increase revenue via the digital
 platform.
 Research and creative thinking
 Compiling report as a team
 Meetings and minute writing
->>4. Creating Whatsapp bot for Covid19 support
+4. Creating Whatsapp bot for Covid19 support
 
 **FAULU MICROFINANCE BANK, KISUMU BRANCH
 BANK AGENCY DSR

@@ -14,29 +14,29 @@
 >>>Back-end done in node js: [Github.repo](https://github.com/adhiambokonyango/covid.git)
 
 **EXPERIENCE**
-**ICT AUTHORITY
-PDTP
-July 2019 to Date**
-*Responsibilities:*
-1.CRS DIGITIZATION
+>**ICT AUTHORITY
+>PDTP
+>July 2019 to Date**
+>>*Responsibilities:*
+>>1.CRS DIGITIZATION
 Network management(topologies, subnetting, routing and switching)
 User support
 SQL database management
 Data backup and storage
 Setting up server and network configuration
-2.BUSINESS PROCESS REENGINEERING TRAINING BY KKeGC
+>>2.BUSINESS PROCESS REENGINEERING TRAINING BY KKeGC
 Event management project. Skill set gained include;
 Communication. Marketing the event to the officers to ensure as many as possible showed up.
 Multitasking. Making invitations and following up on supplies.
 Budgeting. Projecting and tracking spend.
 Problem solving
-3.DRAFTING DIGITAL ECONOMY STRATEGY REPORT
+>>3.DRAFTING DIGITAL ECONOMY STRATEGY REPORT
 Creative research process to come up with how government could increase revenue via the digital
 platform.
 Research and creative thinking
 Compiling report as a team
 Meetings and minute writing
-4. Creating Whatsapp bot for Covid19 support
+>>4. Creating Whatsapp bot for Covid19 support
 
 **FAULU MICROFINANCE BANK, KISUMU BRANCH
 BANK AGENCY DSR

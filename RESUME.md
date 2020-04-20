@@ -1,17 +1,17 @@
-**MARY ADHIAMBO KONYANGO
-marykonyango74@gmail.com
-+254727767652
-NAIROBI, KENYA
-[Github] (https://github.com/adhiambokonyango) | [LinkedIn] (www.linkedin.com/in/mary-konyango-4b5a63b4) **
+**MARY ADHIAMBO KONYANGO**
+**marykonyango74@gmail.com**
+**+254727767652**
+**NAIROBI, KENYA**
+**[Github](https://github.com/adhiambokonyango) | [LinkedIn](www.linkedin.com/in/mary-konyango-4b5a63b4)**
 
 **TECHNOLOGIES**
 **Proficient**: React js, Redux, Node js, Spring Java, MySQL
 **Projects:**
 **Whatsapp Chatbot for COVID19 Support:**
 Built for the Kenya Covid19 support team.
-Integrated with whatsapp sandbox: [Github.repo] (https://github.com/adhiambokonyango/adhiambo.git)
-Front-end done in react-redux: [Github.repo] (https://github.com/adhiambokonyango/moh.git)
-Back-end done in node js: [Github.repo] (https://github.com/adhiambokonyango/covid.git)
+Integrated with whatsapp sandbox: [Github.repo](https://github.com/adhiambokonyango/adhiambo.git)
+Front-end done in react-redux: [Github.repo](https://github.com/adhiambokonyango/moh.git)
+Back-end done in node js: [Github.repo](https://github.com/adhiambokonyango/covid.git)
 
 **EXPERIENCE**
 **ICT AUTHORITY
@@ -88,8 +88,7 @@ Mudasa Academy
 **CERTIFICATION**
 Year | Certification
 -----| -------------
-February 2020 | IBM Big Data [LInk1] (https://www.youracclaim.com/badges/f5890310-255c-4edc-9bdd-10ebb61b74a1/linked_in_profile) | [LInk2] (
-https://www.youracclaim.com/badges/9de69ece-b9dd-4d7f-b5ae-748ec09da471/linked_in_profile) | [LInk3] (https://www.youracclaim.com/badges/aa4155ad-b044-4489-b1b4-495cbb4a1ee3/linked_in_profile)
+February 2020 | IBM Big Data [LInk1](https://www.youracclaim.com/badges/f5890310-255c-4edc-9bdd-10ebb61b74a1/linked_in_profile) | [LInk2](https://www.youracclaim.com/badges/9de69ece-b9dd-4d7f-b5ae-748ec09da471/linked_in_profile) | [LInk3](https://www.youracclaim.com/badges/aa4155ad-b044-4489-b1b4-495cbb4a1ee3/linked_in_profile)
 19th November – 23rd December | Machine Learning, Big Data, Python, SQL with
 MODCOM
 5th November 2019 | Business Process Reengineering by KKeGC

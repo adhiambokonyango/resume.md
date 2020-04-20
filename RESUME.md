@@ -103,3 +103,9 @@ Regional Manager, Faulu bank, North-West Region,<br/>
 0799231048.<br/>
 Dr. Samuel Maina Mwituria, PhD,<br/>
 Tel +254733350910; (Lecturer- The University of Nairobi.)<br/>
+Mr. Kevin Atibu Seboru,<br/>
+Head- Innovation and Incubation,<br/>
+ICT Authority | Telposta Towers | 12th Flr - Kenyatta Ave.| <br/>
+P.O.Box 27150, 00100| Nairobi, Kenya<br/>
+Tel: +254 206676234, +254 202211960<br/>
+

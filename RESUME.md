@@ -5,13 +5,13 @@
 **[Github](https://github.com/adhiambokonyango) | [LinkedIn](www.linkedin.com/in/mary-konyango-4b5a63b4)**<addr>
 
 **TECHNOLOGIES**
-**Proficient**: React js, Redux, Node js, Spring Java, MySQL
-**Projects:**
-**Whatsapp Chatbot for COVID19 Support:**
-Built for the Kenya Covid19 support team.
-Integrated with whatsapp sandbox: [Github.repo](https://github.com/adhiambokonyango/adhiambo.git)
-Front-end done in react-redux: [Github.repo](https://github.com/adhiambokonyango/moh.git)
-Back-end done in node js: [Github.repo](https://github.com/adhiambokonyango/covid.git)
+>**Proficient**: React js, Redux, Node js, Spring Java, MySQL
+>**Projects:**
+>**Whatsapp Chatbot for COVID19 Support:**
+>Built for the Kenya Covid19 support team.
+>Integrated with whatsapp sandbox: [Github.repo](https://github.com/adhiambokonyango/adhiambo.git)
+>Front-end done in react-redux: [Github.repo](https://github.com/adhiambokonyango/moh.git)
+>Back-end done in node js: [Github.repo](https://github.com/adhiambokonyango/covid.git)
 
 **EXPERIENCE**
 **ICT AUTHORITY

@@ -2,7 +2,7 @@
 **marykonyango74@gmail.com**<br/>
 **+254727767652**<br/>
 **NAIROBI, KENYA**<br/>
-**[Github](https://github.com/adhiambokonyango) | [LinkedIn](www.linkedin.com/in/mary-konyango-4b5a63b4)**<br/>
+**[Github](https://github.com/adhiambokonyango) | [LinkedIn](https://www.linkedin.com/in/mary-konyango-4b5a63b4)**<br/>
 
 **TECHNOLOGIES**<br/>
 **Proficient**: React js, Redux, Node js, Spring Java, MySQL<br/>

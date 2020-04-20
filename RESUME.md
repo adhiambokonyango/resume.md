@@ -79,7 +79,7 @@ Year | Qualification
 2009 - 2012 | Kenya Certificate of Secondary Education, Bunyore Girls High School, A-
 1998 - 2008 | Kenya Certificate of Primary Education, Mudasa Academy, 397 Marks
 
-**CERTIFICATION**
+**TRAINING AND CERTIFICATION**
 Year | Certification
 -----| -------------
 February 2020 | IBM Big Data [LInk1](https://www.youracclaim.com/badges/f5890310-255c-4edc-9bdd-10ebb61b74a1/linked_in_profile) [LInk2](https://www.youracclaim.com/badges/9de69ece-b9dd-4d7f-b5ae-748ec09da471/linked_in_profile) [LInk3](https://www.youracclaim.com/badges/aa4155ad-b044-4489-b1b4-495cbb4a1ee3/linked_in_profile)
@@ -87,7 +87,7 @@ February 2020 | IBM Big Data [LInk1](https://www.youracclaim.com/badges/f5890310
 5th November 2019 | Business Process Reengineering by KKeGC
 9th March 2019 | [Google Digital Skills Africa](HTTPS://GOO.GL/y4UjgN)
 
-**INTERESTS**
+**INTERESTS**<br/>
 Traveling<br/>
 Problem Solving<br/>
 Improving user experience<br/>

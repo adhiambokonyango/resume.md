@@ -75,15 +75,9 @@ Attended strategy meetings geared towards improving student performance and disc
 **EDUCATION**
 Year | Qualification
 -----| --------------
-2014 - 2018 | Bachelor of Arts (DESIGN)
-University of Nairobi
-Second Class Upper Division
-2009 - 2012 | Kenya Certificate of Secondary Education
-Bunyore Girls High School
-A-
-1998 - 2008 | Kenya Certificate of Primary Education
-Mudasa Academy
-397 Marks
+2014 - 2018 | Bachelor of Arts (PRODUCT DESIGN) University of Nairobi Second Class Upper Division
+2009 - 2012 | Kenya Certificate of Secondary Education Bunyore Girls High School A-
+1998 - 2008 | Kenya Certificate of Primary Education Mudasa Academy 397 Marks
 
 **CERTIFICATION**
 Year | Certification

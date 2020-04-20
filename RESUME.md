@@ -1,8 +1,8 @@
-**MARY ADHIAMBO KONYANGO**
-**marykonyango74@gmail.com**
-**+254727767652**
-**NAIROBI, KENYA**
-**[Github](https://github.com/adhiambokonyango) | [LinkedIn](www.linkedin.com/in/mary-konyango-4b5a63b4)**
+**MARY ADHIAMBO KONYANGO**<addr>
+**marykonyango74@gmail.com**<addr>
+**+254727767652**<addr>
+**NAIROBI, KENYA**<addr>
+**[Github](https://github.com/adhiambokonyango) | [LinkedIn](www.linkedin.com/in/mary-konyango-4b5a63b4)**<addr>
 
 **TECHNOLOGIES**
 **Proficient**: React js, Redux, Node js, Spring Java, MySQL
@@ -88,6 +88,6 @@ February 2020 | IBM Big Data [LInk1](https://www.youracclaim.com/badges/f5890310
 9th March 2019 | [Google Digital Skills Africa](HTTPS://GOO.GL/y4UjgN)
 
 **INTERESTS**
->Traveling
->Problem Solving
->Improving user experience
+>Traveling,
+>Problem Solving,
+>Improving user experience,

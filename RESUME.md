@@ -36,7 +36,6 @@ platform.<br/>
 Research and creative thinking<br/>
 Compiling report as a team<br/>
 Meetings and minute writing<br/>
-4. Creating Whatsapp bot for Covid19 support<br/>
 
 **FAULU MICROFINANCE BANK, KISUMU BRANCH<br/>
 BANK AGENCY DSR<br/>

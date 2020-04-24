@@ -5,7 +5,7 @@
 **[Github](https://github.com/adhiambokonyango) | [LinkedIn](https://www.linkedin.com/in/mary-konyango-4b5a63b4)**<br/>
 
 **TECHNOLOGIES**<br/>
-**Proficient**: React js, Redux, Node js, Spring Java, MySQL<br/>
+**Proficient**: React-Redux, Node js, Spring Java, MySQL<br/>
 **Projects:**<br/>
 **Whatsapp Chatbot for COVID19 Support:**<br/>
 Built for the Kenya Covid19 support team.<br/>

@@ -8,7 +8,6 @@
 **Proficient**: React-Redux, Node js, Spring Java, MySQL<br/>
 **Projects:**<br/>
 **Whatsapp Chatbot for COVID19 Support:**<br/>
-Built for the Kenya Covid19 support team.<br/>
 Integrated with whatsapp sandbox: [Github.repo](https://github.com/adhiambokonyango/adhiambo.git)<br/>
 Front-end done in react-redux: [Github.repo](https://github.com/adhiambokonyango/moh.git)<br/>
 Back-end done in node js: [Github.repo](https://github.com/adhiambokonyango/covid.git)<br/>
